@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Sundar 👋
+# Hi, I'm Venkata Ramana Sundar Kasyap Anipeddi 👋
 
 ### Computer Vision & ML Engineer — ADAS Perception & Autonomous Driving
 
