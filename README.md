@@ -5,7 +5,7 @@
 ### Computer Vision & ML Engineer — ADAS Perception & Autonomous Driving
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sundar-kasyap/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sundarkasyapfiles@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=sundarkasyapfiles@gmail.com)
 [![Location](https://img.shields.io/badge/Stuttgart,_Germany-555?logo=googlemaps&logoColor=white)](#)
 
 </div>
@@ -85,7 +85,7 @@ Actively looking for **Computer Vision Engineer, Machine Learning Engineer, or A
 <div align="center">
 
 [![Connect on LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sundar-kasyap/)
-[![Send Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sundarkasyapfiles@gmail.com)
+[![Send Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=sundarkasyapfiles@gmail.com)
 
 <sub>📍 Stuttgart, Germany · Open to relocation</sub>
 
